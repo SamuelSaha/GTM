@@ -1,0 +1,199 @@
+# GTM Knowledge Base — Samuel Saha
+
+> GTM books, articles, frameworks and personal playbooks for revenue operations
+
+## Root
+- README.md
+
+## Articles/Forecasting
+- articles/forecasting/README.md
+
+## Articles/Lead-Routing
+- articles/lead-routing/README.md
+
+## Articles/Pipeline
+- articles/pipeline/README.md
+
+## Articles/Sales-Velocity
+- articles/sales-velocity/README.md
+
+## Books/AI-Tech
+- books/ai-tech/README.md
+- books/ai-tech/ai-agents-in-action.md
+- books/ai-tech/ai-and-the-project-manager.md
+- books/ai-tech/ai-driven-project-management.md
+- books/ai-tech/master-software-architecture.md
+- books/ai-tech/multi-agent-reinforcement-learning.md
+- books/ai-tech/prompt-engineering-for-llms.md
+- books/ai-tech/software-architecture-and-decision-making.md
+- books/ai-tech/the-rise-of-ai-agents.md
+
+## Books/Customer-Success
+- books/customer-success/README.md
+- books/customer-success/customer-led-growth-a-ceos-guide-to-building-a-b2b-saas-company.md
+- books/customer-success/mastering-customer-success-tactics-to-decrease-churn-and-expand-revenue.md
+- books/customer-success/the-saas-sales-method-for-customer-success.md
+
+## Books/Data-Analytics
+- books/data-analytics/README.md
+- books/data-analytics/business-intelligence-a-comprehensive-approach.md
+- books/data-analytics/crash-course-sql-for-the-modern-data-analyst.md
+- books/data-analytics/data-management-at-scale-modern-data-architecture-2nd-edition.md
+- books/data-analytics/data-quality-fundamentals-a-practitioners-guide.md
+- books/data-analytics/fundamentals-of-data-engineering.md
+- books/data-analytics/hands-on-data-visualization-interactive-storytelling.md
+- books/data-analytics/lean-analytics-use-data-to-build-a-better-startup-faster.md
+- books/data-analytics/learning-google-analytics-creating-business-impact.md
+- books/data-analytics/statistics-crash-course-for-beginners.md
+- books/data-analytics/the-chief-data-officers-playbook.md
+
+## Books/Demand-Gen
+- books/demand-gen/README.md
+- books/demand-gen/100-days-of-growth-100-actionable-tips-to-grow-your-startup-faster.md
+- books/demand-gen/automate-your-way-to-success-with-marketing-automation.md
+- books/demand-gen/growth-levers-and-how-to-find-them.md
+- books/demand-gen/growth-product-manager-handbook.md
+- books/demand-gen/hacking-growth-how-todays-fastest-growing-companies-drive-breakout-success.md
+- books/demand-gen/innovate-to-grow-gaining-and-sustaining-a-growth-advantage.md
+- books/demand-gen/lean-marketing-more-leads-more-profit-less-marketing.md
+- books/demand-gen/marketing-driven-revenue-growth-a-guide-to-organic-growth.md
+- books/demand-gen/marketing-driven-revenue-growth.md
+- books/demand-gen/measuring-marketing-103-key-metrics-every-marketer-needs.md
+- books/demand-gen/revenue-growth-engine-how-to-align-sales-marketing-to-accelerate-growth.md
+- books/demand-gen/the-growth-hacking-book-most-guarded-growth-marketing-secrets.md
+- books/demand-gen/the-growth-marketers-playbook.md
+- books/demand-gen/the-seo-guide-insider-secrets-to-rank-1-on-google.md
+
+## Books/Finance
+- books/finance/README.md
+- books/finance/cash-is-king-maintain-liquidity.md
+- books/finance/cost-recovery-turning-accounts-payable-into-a-profit-center.md
+- books/finance/financial-modeling-for-business-owners-and-entrepreneurs.md
+- books/finance/fincurious-startup-finance.md
+- books/finance/fintech-evolution-or-revolution.md
+
+## Books/Operations
+- books/operations/README.md
+- books/operations/business-analysis-techniques-72-essential-tools-for-success.md
+- books/operations/highly-productive-remote-work-a-pragmatic-guide.md
+- books/operations/lean-and-agile-project-management.md
+- books/operations/lean-enterprise-how-high-performance-organizations-innovate-at-scale.md
+- books/operations/learning-systems-thinking.md
+- books/operations/metrics-based-process-mapping.md
+- books/operations/modern-technical-writing-an-introduction-to-software-documentation.md
+- books/operations/technical-documentation-and-process.md
+- books/operations/the-basics-of-process-improvement.md
+- books/operations/the-chief-strategy-officer-playbook.md
+- books/operations/the-para-method-simplify-organise-and-master-your-digital-life.md
+- books/operations/the-strategists-handbook.md
+- books/operations/workflow-a-practical-guide-to-the-creative-process.md
+
+## Books/Positioning
+- books/positioning/README.md
+- books/positioning/b2b-go-to-market-strategy-handbook.md
+- books/positioning/go-to-market-strategist-everything-you-need-to-reach-product-market-fit.md
+- books/positioning/the-roadmap-to-market.md
+
+## Books/Pricing
+- books/pricing/README.md
+- books/pricing/pricing-and-revenue-optimization-2nd-edition.md
+- books/pricing/segmentation-revenue-management-and-pricing-analytics.md
+- books/pricing/the-theory-and-practice-of-revenue-management.md
+- books/pricing/unit-economics-data-driven-decisions.md
+
+## Books/Product
+- books/product/README.md
+- books/product/measure-what-matters-how-google-bono-and-the-gates-foundation-rock-the-world-wit.md
+- books/product/navigating-the-product-galaxy-a-practical-handbook-for-product-managers.md
+- books/product/product-development-and-management-body-of-knowledge.md
+- books/product/ship-it-silicon-valley-product-managers-reveal-all.md
+- books/product/strategize-product-strategy-and-product-roadmap-practices-for-the-digital-age.md
+
+## Books/Reference
+- books/reference/README.md
+- books/reference/b2b-gtm-cheat-sheet.md
+- books/reference/chief-revenue-officer-cheat-sheet.md
+- books/reference/pipeline-visibility-cheat-sheet.md
+- books/reference/qbr-cheat-sheet.md
+- books/reference/revops-cheat-sheet-comprehensive.md
+- books/reference/revops-onboarding-cheat-sheet.md
+- books/reference/sales-forecasting-guide.md
+- books/reference/sales-methodology-cheat-sheet.md
+- books/reference/salesforce-cheat-sheet.md
+- books/reference/unleashing-roi-module-1.md
+- books/reference/unleashing-roi-module-2.md
+- books/reference/unleashing-roi-module-3.md
+- books/reference/unleashing-roi-module-4.md
+- books/reference/unleashing-roi-module-5.md
+- books/reference/unleashing-roi-module-6.md
+- books/reference/unleashing-roi-module-7.md
+- books/reference/unleashing-roi-module-8.md
+- books/reference/unleashing-roi-module-9.md
+- books/reference/unleashing-roi-module-10.md
+
+## Books/RevOps
+- books/revops/README.md
+- books/revops/mastering-salesforce-reports-and-dashboards.md
+- books/revops/module-9-revenue-operations-impact.md
+- books/revops/rethinking-revops-gain-confidence-in-your-revenue-operations.md
+- books/revops/revenue-architecture.md
+- books/revops/revenue-operations-a-new-way-to-align-sales-marketing-monetize-data-and-ignite-g.md
+- books/revops/revenue-operations-handbook.md
+- books/revops/revenue-operations-how-to-align-teams.md
+- books/revops/revenue-operations-leadership.md
+- books/revops/revops-at-15-how-crucial-is-alignment.md
+- books/revops/strategic-revops-ebook.md
+- books/revops/the-revenue-operations-playbook.md
+- books/revops/the-revops-pendulum-finding-stability-in-revenue-operations.md
+
+## Books/Sales
+- books/sales/README.md
+- books/sales/agile-sales-delivering-customer-journeys-of-value-and-delight.md
+- books/sales/blueprints-for-a-saas-sales-organization.md
+- books/sales/busting-silos-how-snowflake-unites-sales-and-marketing.md
+- books/sales/founding-sales-the-early-stage-go-to-market-handbook.md
+- books/sales/hacking-sales-the-ultimate-playbook-for-building-a-high-velocity-sales-machine.md
+- books/sales/lightning-sales-ops-building-sales-operations-from-scratch.md
+- books/sales/mastering-technical-sales-the-sales-engineers-handbook.md
+- books/sales/meddicc-using-the-powerful-meddpicc-framework.md
+- books/sales/outbound-sales-a-data-backed-playbook.md
+- books/sales/revenue-revolution-designing-and-building-a-high-performing-sales-system.md
+- books/sales/sales-management-analysis-and-decision-making-11th-edition.md
+- books/sales/the-complete-guide-to-sales-force-incentive-compensation.md
+- books/sales/the-revenue-acceleration-playbook.md
+- books/sales/the-saas-sales-method-for-accounts.md
+- books/sales/the-saas-sales-method-for-sales.md
+- books/sales/the-saas-sales-method-fundamentals.md
+- books/sales/the-saas-sales-method-sales-as.md
+- books/sales/the-sales-operations-collection.md
+
+## Books/Startup-SaaS
+- books/startup-saas/README.md
+- books/startup-saas/blitzscaling-the-lightning-fast-path-to-building-massively-valuable-companies.md
+- books/startup-saas/high-growth-handbook.md
+- books/startup-saas/marketplace-best-practices-transforming-digital-commerce.md
+- books/startup-saas/problem-hunting-the-tech-startup-textbook.md
+- books/startup-saas/software-as-a-science-unlock-limitless-recurring-revenue-without-losing-control.md
+- books/startup-saas/startup-myths-and-models-what-you-wont-learn-in-business-school.md
+- books/startup-saas/tech-startup-toolkit-how-to-launch-strong-and-exit-big.md
+- books/startup-saas/the-lean-marketplace-a-practical-guide-to-building-a-successful-online-marketpla.md
+- books/startup-saas/the-startup-playbook-founder-to-founder-advice.md
+- books/startup-saas/the-subscription-playbook-how-to-build-a-recurring-revenue-business.md
+- books/startup-saas/the-ultimate-startup-dictionary.md
+- books/startup-saas/think-like-a-tech-founder.md
+- books/startup-saas/trajectory-startup-ideation-to-product-market-fit.md
+
+## Frameworks
+- frameworks/README.md
+- frameworks/gtm-motion.md
+- frameworks/icp-definition.md
+- frameworks/lead-scoring-model.md
+- frameworks/sales-stages.md
+
+## My-Notes
+- my-notes/experiments.md
+- my-notes/what-works.md
+
+## Summaries
+- summaries/README.md
+- summaries/book-name-summary.md
